@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rimsha751.github.io/myTodoApp/static/css/main.d4bf1de7.css",
+    "main.js": "/Rimsha751.github.io/myTodoApp/static/js/main.70cbd141.js",
+    "index.html": "/Rimsha751.github.io/myTodoApp/index.html",
+    "main.d4bf1de7.css.map": "/Rimsha751.github.io/myTodoApp/static/css/main.d4bf1de7.css.map",
+    "main.70cbd141.js.map": "/Rimsha751.github.io/myTodoApp/static/js/main.70cbd141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4bf1de7.css",
+    "static/js/main.70cbd141.js"
+  ]
+}
